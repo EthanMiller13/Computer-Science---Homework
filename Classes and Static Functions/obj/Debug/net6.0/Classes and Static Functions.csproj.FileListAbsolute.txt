@@ -1,0 +1,15 @@
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\bin\Debug\net6.0\Classes and Static Functions.exe
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\bin\Debug\net6.0\Classes and Static Functions.deps.json
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\bin\Debug\net6.0\Classes and Static Functions.runtimeconfig.json
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\bin\Debug\net6.0\Classes and Static Functions.dll
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\bin\Debug\net6.0\Classes and Static Functions.pdb
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\Classes and Static Functions.csproj.AssemblyReference.cache
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\Classes and Static Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\Classes and Static Functions.AssemblyInfoInputs.cache
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\Classes and Static Functions.AssemblyInfo.cs
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\Classes and Static Functions.csproj.CoreCompileInputs.cache
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\Classes and Static Functions.dll
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\refint\Classes and Static Functions.dll
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\Classes and Static Functions.pdb
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\Classes and Static Functions.genruntimeconfig.cache
+C:\Programming\.NET\מגמת מדעי המחשב\Classes and Static Functions\obj\Debug\net6.0\ref\Classes and Static Functions.dll
