@@ -14,25 +14,24 @@ namespace Exc2{
     }
 
     public class Point{
-            private double _x;
-            public double X {
-                get { return _x; }
-                set { this._x = value; }
-            }
-            private double _y;
-            public double Y {
-                get { return _y; }
-                set { this._y = value; }
-            }
-
-            public Point(double x, double y){
-                this._x = x;
-                this._y = y;
-            }
-
-            public string ToString(){
-                return $"x={this._x} y={this._y}";
-            }
-
+        private double _x;
+        public double X {
+            get { return _x; }
+            set { this._x = value; }
         }
+        private double _y;
+        public double Y {
+            get { return _y; }
+            set { this._y = value; }
+        }
+
+        public Point(double x, double y){
+            this._x = x;
+            this._y = y;
+        }
+
+        public string ToString(){
+            return $"x={this._x} y={this._y}";
+        }
+    }
 }
